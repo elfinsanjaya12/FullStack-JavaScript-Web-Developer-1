@@ -1,0 +1,4 @@
+CARA RUNNING BATTLE SHIIP.JS
+1.lokasi file :(misal ) PS E:\Javascript\WEEK2PROJECT> 
+2.cara run program : node .\battleship.js 5 4,4
+3. pada angka di akhir filen  js menunjukan jumlah kapal dan koordinat
